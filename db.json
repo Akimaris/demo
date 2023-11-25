@@ -53,65 +53,6 @@
           "Beat eggs, pour over potatoes and onions, cook until set.",
           "Flip omelette, cook other side, and serve."
         ]
-      },
-      {
-        "title": "Chicken Fried Rice",
-        "ingredients": [
-          "Diced chicken breasts",
-          "Scrambled eggs",
-          "Diced carrot",
-          "Diced onion",
-          "Diced red and green peppers",
-          "Cooked rice",
-          "Soy sauce",
-          "Olive oil"
-        ],
-        "steps": [
-          "Cook rice, set aside.",
-          "Cook chicken, set aside.",
-          "Scramble eggs, set aside.",
-          "Sauté vegetables.",
-          "Combine rice, chicken, eggs, vegetables, add soy sauce and stir-fry."
-        ]
-      },
-      {
-        "title": "Stuffed Bell Peppers",
-        "ingredients": [
-          "Halved and seeded bell peppers",
-          "Ground chicken",
-          "Cooked rice",
-          "Diced zucchini",
-          "Diced onion",
-          "Minced garlic",
-          "Tomato sauce",
-          "Cheese (optional)",
-          "Olive oil, salt, pepper"
-        ],
-        "steps": [
-          "Preheat oven to 350°F (175°C).",
-          "Sauté onion, garlic, chicken, add zucchini, cook.",
-          "Stir in rice, tomato sauce, season.",
-          "Spoon mixture into bell peppers, top with cheese, bake."
-        ]
-      },
-      {
-        "title": "Ratatouille",
-        "ingredients": [
-          "Sliced eggplant",
-          "Sliced zucchini",
-          "Sliced red and green bell peppers",
-          "Sliced onion",
-          "Tomato sauce",
-          "Minced garlic",
-          "Olive oil",
-          "Herbs (basil, thyme)"
-        ],
-        "steps": [
-          "Preheat oven to 375°F (190°C).",
-          "Spread tomato sauce in a baking dish.",
-          "Arrange vegetable slices, sprinkle with garlic, herbs, oil.",
-          "Cover, bake for 45-60 minutes, uncover, bake 10-15 more."
-        ]
       }
     ]
 }
