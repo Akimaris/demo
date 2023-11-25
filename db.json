@@ -11,7 +11,7 @@
             "steps": [
                 "dox",
                 "doy",
-                "doz"
+                "<bold>doz<bold>"
             ]
         }
     ]
