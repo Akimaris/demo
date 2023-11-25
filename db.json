@@ -1,18 +1,367 @@
 {
-    "recipes" : [
-        {
-            "title": "X",
-            "ingredients": [
-                "test",
-                "test2",
-                "test3",
-                "test4"
-            ],
-            "steps": [
-                "dox",
-                "doy",
-                "<strong>doz</strong>"
-            ]
-        }
+    "recipes": [
+      {
+        "title": "Chicken and Vegetable Stir-Fry",
+        "ingredients": [
+          "Diced chicken breasts",
+          "Sliced carrot",
+          "Sliced zucchini",
+          "Sliced onion",
+          "Sliced red and green peppers",
+          "Cooked rice",
+          "Soy sauce, garlic, ginger (for stir-fry sauce)"
+        ],
+        "steps": [
+          "Cook rice as per package instructions.",
+          "Heat a wok or large pan with oil, sauté chicken, remove and set aside.",
+          "Stir-fry vegetables in the same pan.",
+          "Add chicken back to the pan with vegetables.",
+          "Mix soy sauce, garlic, and ginger, pour over chicken and vegetables.",
+          "Stir and cook for another minute.",
+          "Serve over rice."
+        ]
+      },
+      {
+        "title": "Eggplant Parmesan",
+        "ingredients": [
+          "Sliced eggplant",
+          "Bread crumbs",
+          "Beaten eggs",
+          "Marinara sauce",
+          "Mozzarella and Parmesan cheese",
+          "Olive oil",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Preheat oven to 375°F (190°C).",
+          "Season, bread, and fry eggplant slices, then drain.",
+          "Layer eggplant with sauce and cheeses in a baking dish.",
+          "Repeat layers and bake for 25-30 minutes."
+        ]
+      },
+      {
+        "title": "Spanish Omelette",
+        "ingredients": [
+          "Eggs",
+          "Thinly sliced potatoes",
+          "Thinly sliced onion",
+          "Olive oil",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Cook potatoes and onions in oil until tender.",
+          "Beat eggs, pour over potatoes and onions, cook until set.",
+          "Flip omelette, cook other side, and serve."
+        ]
+      },
+      {
+        "title": "Chicken Fried Rice",
+        "ingredients": [
+          "Diced chicken breasts",
+          "Scrambled eggs",
+          "Diced carrot",
+          "Diced onion",
+          "Diced red and green peppers",
+          "Cooked rice",
+          "Soy sauce",
+          "Olive oil"
+        ],
+        "steps": [
+          "Cook rice, set aside.",
+          "Cook chicken, set aside.",
+          "Scramble eggs, set aside.",
+          "Sauté vegetables.",
+          "Combine rice, chicken, eggs, vegetables, add soy sauce and stir-fry."
+        ]
+      },
+      {
+        "title": "Stuffed Bell Peppers",
+        "ingredients": [
+          "Halved and seeded bell peppers",
+          "Ground chicken",
+          "Cooked rice",
+          "Diced zucchini",
+          "Diced onion",
+          "Minced garlic",
+          "Tomato sauce",
+          "Cheese (optional)",
+          "Olive oil, salt, pepper"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C).",
+          "Sauté onion, garlic, chicken, add zucchini, cook.",
+          "Stir in rice, tomato sauce, season.",
+          "Spoon mixture into bell peppers, top with cheese, bake."
+        ]
+      },
+      {
+        "title": "Chicken and Vegetable Stir-Fry",
+        "ingredients": [
+          "Diced chicken breasts",
+          "Sliced carrot",
+          "Sliced zucchini",
+          "Sliced onion",
+          "Sliced red and green peppers",
+          "Cooked rice",
+          "Soy sauce, garlic, ginger (for stir-fry sauce)"
+        ],
+        "steps": [
+          "Cook rice as per package instructions.",
+          "Heat a wok or large pan with oil, sauté chicken, remove and set aside.",
+          "Stir-fry vegetables in the same pan.",
+          "Add chicken back to the pan with vegetables.",
+          "Mix soy sauce, garlic, and ginger, pour over chicken and vegetables.",
+          "Stir and cook for another minute.",
+          "Serve over rice."
+        ]
+      },
+      {
+        "title": "Eggplant Parmesan",
+        "ingredients": [
+          "Sliced eggplant",
+          "Bread crumbs",
+          "Beaten eggs",
+          "Marinara sauce",
+          "Mozzarella and Parmesan cheese",
+          "Olive oil",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Preheat oven to 375°F (190°C).",
+          "Season, bread, and fry eggplant slices, then drain.",
+          "Layer eggplant with sauce and cheeses in a baking dish.",
+          "Repeat layers and bake for 25-30 minutes."
+        ]
+      },
+      {
+        "title": "Spanish Omelette",
+        "ingredients": [
+          "Eggs",
+          "Thinly sliced potatoes",
+          "Thinly sliced onion",
+          "Olive oil",
+          "Salt and pepper"
+        ],
+        "steps": [
+          "Cook potatoes and onions in oil until tender.",
+          "Beat eggs, pour over potatoes and onions, cook until set.",
+          "Flip omelette, cook other side, and serve."
+        ]
+      },
+      {
+        "title": "Chicken Fried Rice",
+        "ingredients": [
+          "Diced chicken breasts",
+          "Scrambled eggs",
+          "Diced carrot",
+          "Diced onion",
+          "Diced red and green peppers",
+          "Cooked rice",
+          "Soy sauce",
+          "Olive oil"
+        ],
+        "steps": [
+          "Cook rice, set aside.",
+          "Cook chicken, set aside.",
+          "Scramble eggs, set aside.",
+          "Sauté vegetables.",
+          "Combine rice, chicken, eggs, vegetables, add soy sauce and stir-fry."
+        ]
+      },
+      {
+        "title": "Stuffed Bell Peppers",
+        "ingredients": [
+          "Halved and seeded bell peppers",
+          "Ground chicken",
+          "Cooked rice",
+          "Diced zucchini",
+          "Diced onion",
+          "Minced garlic",
+          "Tomato sauce",
+          "Cheese (optional)",
+          "Olive oil, salt, pepper"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C).",
+          "Sauté onion, garlic, chicken, add zucchini, cook.",
+          "Stir in rice, tomato sauce, season.",
+          "Spoon mixture into bell peppers, top with cheese, bake."
+        ]
+      },
+      {
+        "title": "Vegetable Fritters",
+        "ingredients": [
+          "Grated zucchini",
+          "Grated carrot",
+          "Grated potato",
+          "Beaten eggs",
+          "Flour",
+          "Salt, pepper, other seasonings",
+          "Oil for frying"
+        ],
+        "steps": [
+          "Combine grated vegetables, squeeze out moisture.",
+          "Stir in eggs and flour, season.",
+          "Heat oil, fry spoonfuls of mixture, flip, and drain."
+        ]
+      },
+      {
+        "title": "Ratatouille",
+        "ingredients": [
+          "Sliced eggplant",
+          "Sliced zucchini",
+          "Sliced red and green bell peppers",
+          "Sliced onion",
+          "Tomato sauce",
+          "Minced garlic",
+          "Olive oil",
+          "Herbs (basil, thyme)"
+        ],
+        "steps": [
+          "Preheat oven to 375°F (190°C).",
+          "Spread tomato sauce in a baking dish.",
+          "Arrange vegetable slices, sprinkle with garlic, herbs, oil.",
+          "Cover, bake for 45-60 minutes, uncover, bake 10-15 more."
+        ]
+      },
+      {
+        "title": "Chicken and Rice Casserole",
+        "ingredients": [
+          "Diced chicken breasts",
+          "Cooked rice",
+          "Chopped carrots",
+          "Chopped onions",
+          "Cream soup or homemade cream sauce",
+          "Cheese (optional)",
+          "Salt, pepper, seasonings"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C).",
+          "Mix rice, chicken, carrots, onions, cream soup, season.",
+          "Transfer to baking dish, top with cheese, bake."
+        ]
+      },
+      {
+        "title": "Eggplant and Zucchini Lasagna",
+        "ingredients": [
+          "Thinly sliced eggplant",
+          "Thinly sliced zucchini",
+          "Marinara sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese",
+          "Olive oil",
+          "Salt, pepper, Italian seasoning"
+        ],
+        "steps": [
+          "Preheat oven to 375°F (190°C).",
+          "Brush slices with oil, season, bake to soften.",
+          "Layer sauce, vegetables, and cheeses in a baking dish.",
+          "Repeat layers, finish with cheese, bake 45-60 minutes."
+        ]
+      },
+      {
+        "title": "Chicken and Vegetable Skewers",
+        "ingredients": [
+          "Chicken breast chunks",
+          "Chunked red and green bell peppers",
+          "Chunked onion",
+          "Chunked zucchini",
+          "Olive oil",
+          "Salt, pepper, other seasonings"
+        ],
+        "steps": [
+          "Preheat grill.",
+          "Thread chicken and vegetables on skewers.",
+          "Brush with oil, season, grill until cooked."
+        ]
+      },
+      {
+        "title": "Vegetable Soup",
+        "ingredients": [
+          "Chopped carrots",
+          "Chopped potatoes",
+          "Chopped onions",
+          "Chopped red and green bell peppers",
+          "Chicken or vegetable broth",
+          "Rice",
+          "Olive oil",
+          "Salt, pepper, herbs"
+        ],
+        "steps": [
+          "Heat oil, sauté onions, carrots, bell peppers.",
+          "Add potatoes, cook more.",
+          "Add broth, boil, add rice, herbs, simmer."
+        ]
+      },
+      {
+        "title": "Potato and Carrot Latkes",
+        "ingredients": [
+          "Grated potatoes",
+          "Grated carrots",
+          "Beaten eggs",
+          "Flour",
+          "Salt and pepper",
+          "Oil for frying"
+        ],
+        "steps": [
+          "Combine potatoes, carrots, eggs, flour, season.",
+          "Heat oil, fry patties, flip, drain."
+        ]
+      },
+      {
+        "title": "Baked Chicken with Roasted Vegetables",
+        "ingredients": [
+          "Chicken breasts",
+          "Chopped potatoes",
+          "Chopped carrots",
+          "Chopped red and green bell peppers",
+          "Chopped onion",
+          "Olive oil",
+          "Salt, pepper, herbs"
+        ],
+        "steps": [
+          "Preheat oven to 400°F (200°C).",
+          "Place chicken, vegetables in a dish, season, toss.",
+          "Bake until cooked and tender."
+        ]
+      },
+      {
+        "title": "Stuffed Eggplant",
+        "ingredients": [
+          "Halved eggplants",
+          "Ground chicken",
+          "Cooked rice",
+          "Diced onion",
+          "Minced garlic",
+          "Tomato sauce",
+          "Cheese (optional)",
+          "Olive oil, salt, pepper"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C).",
+          "Scoop out eggplant, chop flesh.",
+          "Sauté onion, garlic, chicken, add eggplant.",
+          "Stir in rice, sauce, season.",
+          "Fill eggplant shells, top with cheese, bake."
+        ]
+      },
+      {
+        "title": "Zucchini and Carrot Noodle Bowl",
+        "ingredients": [
+          "Spiralized zucchini",
+          "Spiralized carrot",
+          "Diced chicken breasts",
+          "Diced onion",
+          "Minced garlic",
+          "Soy sauce or light sauce",
+          "Olive oil"
+        ],
+        "steps": [
+          "Cook chicken with garlic, onion, set aside.",
+          "Sauté noodles, add chicken, sauce, combine."
+        ]
+      }
     ]
 }
+  
